@@ -69,7 +69,7 @@ If you are using the nvidia-docker, you can follow these steps to instantiate th
 In our case we used the following commands to create the dockers. Note that you will need to replace */path/to/your/directory/* by the path to one of your directories and *path/to/the/docker/image* by the path to the docker image. Note that you can select the GPUs to use by changing the index(es) of the *NV_GPU* variable.
 
 ```
-NV\_GPU=0 nvidia-docker run --name RTSBS -it --rm --shm-size=1g --ulimit memlock=-1 -v /path/to/your/directory/:/workspace/generic path/to/the/docker/image
+NV_GPU=0 nvidia-docker run --name RTSBS -it --rm --shm-size=1g --ulimit memlock=-1 -v /path/to/your/directory/:/workspace/generic path/to/the/docker/image
 ```
 
 To install the code and libraries, simply run:
