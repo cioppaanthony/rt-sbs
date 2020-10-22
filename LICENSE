@@ -1,0 +1,94 @@
+
+SOFTWARE EVALUATION LICENSE AGREEMENT
+
+This software license agreement applies to the RT-SBS software, hereinafter referred to as the “Software”, available for download from this website and constitutes a legal agreement between the person or entity downloading the Software, hereinafter referred to as “Licensee”, and University of Liège, hereinafter referred to as “ULiège". By downloading, installing and otherwise using the Software, Licensee is automatically agreeing to and show that he has read and understood the terms and conditions contained in this Software Evaluation License.
+
+
+1. 	BACKGROUND 
+
+ULiège owns certain software for use for background detection and subtraction in video sequences that  implements a method covered by patents also owned by ULiège. The software and the patents (hereinafter “the Technology”) were developed by the laboratory of Professor Marc Van Droogenbroeck, the research unit for signal and image exploitation of the Electrical Engineering and Computer Science of the University of Liège. This software is entitled « RT-SBS ». 
+
+Licensee desires to acquire a personal, non-exclusive, non-transferable, limited license to use such software for the purposes of evaluating Technology.
+
+Licensee shall use such software for the sole purpose of determining its interest in acquiring a commercial license on the Technology and solely upon the terms and conditions set forth in this Agreement. 
+
+
+
+2.	 DEFINITIONS
+ 
+2.1 “Prototype” means any software to be developed by Licensee that includes or incorporates the Software, in whole or in parts, or elements based on or deriving from the Software. 
+
+2.2 “Software” means the source code and binary files known as « RT-SBS » provided to Licensee pursuant to this Agreement.  Software includes the “RT-SBS ” Reference implementation in python and any other material relating to the Software that may be provided by ULiège to Licensee in connection with this Agreement.
+
+
+3. 	LIMITED LICENSE
+ 
+3.1 Grant. Subject to the terms and conditions of this Agreement, ULiège grants Licensee a personal, non-exclusive, non-transferable limited license to : 
+
+    (i) use and modify the Software in source code form for the sole purpose of enabling Licensee to evaluate the Software in connection with the development by Licensee of a Prototype integrating, in whole or in part, the Software as it may be modified by Licensee. 
+
+All rights not expressly granted by this agreement are expressly reserved by ULiège.
+
+3.2 Patents.  Although the Software is covered by the following patent rights owned by ULiège: EP3438929B1, US10614736B2, US10706558B2, CN109389618, EP2015252B1,  US8009918B2, JP4699564B2 ; ULiège does not grant any licenses under any ULiège’s patent rights by this Agreement.  However, ULiège does covenant that, for the term of this Agreement, it will not assert against Licensee a claim that use of the Software by Licensee in accordance with this Agreement infringes any such patent rights. For purposes of clarity, Licensee acknowledges that ULiège is under no obligation to maintain the patents above.
+
+
+4.	SOFTWARE DELIVERY – NO SUPPORT SERVICE
+
+Licensee shall obtain the Software by downloading it from a publicly accessible code repository.
+
+ULiège is under no obligation to provide Licensee with any kind of support services to address issues arising in connection with Licensee’s use and/or integration of the Software to the Prototype. 
+
+If requested by Licensee and accepted by ULiège, ULiège shall provide such support on terms and conditions as may be determined by ULiège including price.
+
+
+5.	MAINTENANCE AND ADDITIONAL RELEASES
+
+This Agreement applies only to the Software as licensed hereunder to Licensee. Possible later versions released by ULiège are not part of this License.
+ 
+
+6.	FINANCIAL COMPENSATION
+
+Access to the Software is given for free. 
+
+
+7.	ACKNOWLEDGEMENT
+
+University shall be entitled to disclose the existence of this Agreement. 
+
+	 
+8.	WARRANTY DISCLAIMER – NO LIABILITY
+
+The Software is provided on an “as is” basis without warranty of any kind, either expressed or implied, including without limitation any warranties of merchantability, fitness for a particular purpose or that the use of the Software and exercise of the license rights hereunder will not infringe any intellectual property rights other than the patents above. ULiège does not warrant that the Software will meet Licensee’s requirements or that the Software will operate uninterrupted or error-free. Licensee is solely responsible for determining the appropriateness of using the Software or integrating the Software into the Prototype and assumes all risks with its exercise of rights under this Agreement 
+
+The Software was created in the course of academic research and not as a commercial product. Licensee expressly agrees that ULiège shall not be responsible for any damages whatsoever (including without limitation loss of data, loss of profits arising out of or related to the use of the Software. By using the Software and exercising its licensed rights hereunder, Licensee expressly agrees to assume all responsibility for any and all such use and exercise and ULiège shall not be liable in any manner whatsoever for any damages however caused and regardless of the theory of liability in connection with such use and exercise. 
+
+Any provision herein to the contrary notwithstanding, the maximum liability of ULiège whatsoever in connection with Licensee’s use of the Software shall in no case exceed 500 (five hundred Euros).
+
+
+9.	INDEMNIFICATION
+
+Licensee agrees to indemnify and hold ULiège harmless from any and all liability, damage, loss or expense that may be incurred by ULiège in connection with any claim, suit, demand, action or judgement arising out of the use by Licensee of the Software.
+
+
+10.	TERM AND TERMINATION
+
+This Agreement shall be effective as of the date of the last signature as written below and shall automatically terminate 180 (one hundred eighty) days thereafter.
+
+ULiège may immediately terminate this agreement in case Licensee is in breach of any provision of this Agreement. 
+
+Upon termination of this Agreement, Licensee shall cease all use of the Software and of all of its elements and shall, at the ULiège’s option, return or destroy any copies of the Software in its possession. 
+
+
+11.	ENTIRE AGREEMENT - SEVERABILITY 
+
+This Agreement constitutes the entire agreement between the Parties concerning the subject matter hereof and supersedes any prior agreements, statements, negotiations, understandings, proposals or undertakings, oral or written, with respect to the subject matter hereof. If any provision of this Agreement shall be held to be illegal, invalid or unenforceable, each Party agrees that such provision shall be enforced to the maximum extent permissible so as to effect the intent of the Parties, and the validity, legality and enforceability of the remaining provisions of this Agreement shall not in any way be affected or impaired thereby. If necessary to effect the intent of the Parties, the Parties shall negotiate in good faith to amend this Agreement to replace the unenforceable language with enforceable language that reflects such intent as closely as possible.
+
+
+12.	GOVERNING LAW
+
+This Agreement shall be governed by, and construed in accordance with, the laws of Belgium without giving effect to any choice of law principle that would require the application of the laws of a different country. The Parties agree that in the event of a dispute arising from, or in any way related to this Agreement, they should undertake good faith efforts to resolve the matter amicably. Any dispute that cannot be settled amicably by negotiation between the parties shall be exclusively referred to Liège Courts, Belgium. 
+
+
+The parties hereto have executed this agreement done in two originals by their duly authorised representatives on the date written below. Each party acknowledges receipt of a duly executed copy.
+
+
