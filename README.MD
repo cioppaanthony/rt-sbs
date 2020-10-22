@@ -123,7 +123,7 @@ python3 main-rtsbs.py -d /path/to/CDNet/Original/ -ds /path/to/PSPNet/
 ```
 The paths should point to the folders containing the different categories (badWeather, baseline,...).
 
-This code will go through all the videos and print F1 sccore for each video and finally print the overall F1 score over the entire dataset.
+This code will go through all the videos and print the F1 score for each video. Finally, it will print the overall F1 score over the entire dataset.
 
 You can use the different arguments in [utils/argument_parser.py](utils/argument_parser.py) to experiment with the different parameters such as the semantic frame rate and the four thresholds of the method.
 
